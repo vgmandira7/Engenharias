@@ -1,8 +1,15 @@
-# 🏗️ Guia das Engenharias
+# 🏗️ Plataforma Informativa – Áreas da Engenharia  
 
-Uma plataforma informativa criada para apresentar as diversas áreas da engenharia, incluindo média salarial, principais universidades, áreas de atuação e curiosidades sobre cada profissão.  
+Uma **plataforma interativa** criada para apresentar as diversas áreas da **Engenharia**, desenvolvida durante o **2º ano** do curso técnico em **Desenvolvimento de Sistemas** na **ETEC de Registro-SP** (2023).  
 
-Este projeto foi desenvolvido no 2º ano do curso Técnico em Desenvolvimento de Sistemas na ETEC de Registro no ano de 2023, por um grupo de quatro alunos.
+## 🎯 Objetivo  
+O projeto nasceu de uma iniciativa da instituição para:  
+- 📚 Incentivar os alunos a conhecerem melhor as diferentes **profissões**;  
+- 💻 Desenvolver e aprimorar **habilidades em programação**;  
+- 🎤 Apresentar o trabalho na **Feira de Profissões**, evento que recebeu um retorno bastante positivo do público.  
+
+## 🗒️ Observação  
+> Este é um **re-upload** do projeto original.  
 
 ---
 
@@ -10,7 +17,6 @@ Este projeto foi desenvolvido no 2º ano do curso Técnico em Desenvolvimento de
 
 Estas instruções permitirão que você obtenha uma cópia do projeto e o execute localmente para desenvolvimento e testes.
 
-Consulte a seção **📦 Implantação** para saber como colocar o projeto em produção.
 
 ---
 
@@ -39,7 +45,7 @@ Você pode testar o projeto de duas maneiras:
 - **Localmente:** abra o arquivo `index.html` diretamente no navegador.
 
 - **Online (recomendado):** acesse a versão publicada no GitHub Pages:  
-🔗 Clique aqui para abrir o projeto
+🔗 [Clique aqui para abrir o projeto](https://vgmandira7.github.io/Engenharias/)
 
 ---
 
@@ -51,16 +57,6 @@ O código segue boas práticas de organização de HTML, CSS e JavaScript, visan
 
 ---
 
-## 📦 Implantação
-
-Para implantar o projeto, basta subir os arquivos para qualquer serviço de hospedagem estática, como:
-
-- GitHub Pages  
-- Vercel  
-- Netlify
-
----
-
 ## 🛠️ Construído com
 
 - HTML5 – Estrutura do site  
@@ -69,28 +65,18 @@ Para implantar o projeto, basta subir os arquivos para qualquer serviço de hosp
 
 ---
 
-## 🖇️ Colaborando
-
-Contribuições são bem-vindas!  
-Siga o nosso guia no arquivo `COLABORACAO.md` para entender como participar e enviar melhorias.
-
----
-
 ## 📌 Versão
 
-Nós usamos SemVer para controle de versão.  
-As versões disponíveis estão listadas nas tags deste repositório.
+Este repositório não utiliza controle de versionamento, pois trata-se de um re-upload do projeto original.
 
 ---
 
 ## ✒️ Autores
 
-- Vitor – Desenvolvimento e Conteúdo – @seuusuario  
-- [Nome 2] – Pesquisa e Design  
-- [Nome 3] – Estrutura e Organização  
-- [Nome 4] – Documentação e Revisão
-
-Você também pode ver a lista de todos os colaboradores neste link. *(adicione o link)*
+- **Vitor** – Desenvolvimento Front-end – [@vgmandira7](https://github.com/vgmandira7)  
+- **Murilo** – Pesquisa e Design  
+- **Kauã Moledo** – Estrutura e Organização  
+- **Kauã Tavares** – Desenvolvimento Full Stack – [@Kauadt](https://github.com/Kauadt)  
 
 ---
 
@@ -98,11 +84,4 @@ Você também pode ver a lista de todos os colaboradores neste link. *(adicione 
 
 Este projeto está sob a licença MIT – veja o arquivo `LICENSE.md` para detalhes.
 
----
-
-## 🎁 Expressões de gratidão
-
-- 📢 Compartilhe este projeto com seus amigos  
-- 🍺 Convide alguém da equipe para uma cerveja  
-- 🫂 Agradecimento especial a todos que apoiaram durante o desenvolvimento
 
